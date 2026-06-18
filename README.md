@@ -8,7 +8,10 @@
 A simple and responsive Adidas landing page built using HTML and CSS.
 
 
-https://github.com/user-attachments/assets/6d7c0bfa-fe65-46c9-88a8-27c461bece44
+
+https://github.com/user-attachments/assets/f57f3da9-7050-4973-a071-bde254d3ffd9
+
+
 
 
 ## Features
